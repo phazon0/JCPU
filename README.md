@@ -13,7 +13,8 @@ JCPU is a Java-based emulator for the 6502 microprocessor with a graphical user 
 - Disassembler to convert machine code back into assembly instructions
 
 ## Screenshot
-![JCPU Screenshot](https://github.com/cxe0/JCPU/assets/164516044/4108b01a-9d0d-4bdb-a046-1f28fff9d83f)
+![JCPU GUI](https://github.com/user-attachments/assets/ed78fa85-1081-4e37-b1db-7536b55fb69c)
+
 
 ## Memory Viewer
 The memory viewer provides a real-time display of the memory contents. Users can inspect memory addresses and modify their values during emulation. This feature is crucial for debugging and understanding how the program manipulates data.
